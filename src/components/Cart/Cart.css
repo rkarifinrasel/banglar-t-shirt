@@ -1,4 +1,11 @@
 .btn-delete{
     background-color: red;
-    
+
+}
+.order-containeer{
+    position: sticky;
+    top: 0;
+}
+.order-summary h1{
+    font-size: 2em;
 }

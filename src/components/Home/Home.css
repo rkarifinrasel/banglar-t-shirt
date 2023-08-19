@@ -1,0 +1,11 @@
+.shop-containeer{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.tshirt-containeer{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.cart-containeer{
+    background-color: darkkhaki;
+}
